@@ -1,0 +1,26 @@
+# Arquivos que o Git deve ignorar (não vão para o GitHub)
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.env
+
+# Excel / Office temporários
+~$*
+
+# Power BI: cache local
+*.pbix.bak
+
+# Dados grandes (guarde no Drive e liste em dados/README.md)
+*.parquet
+*.zip
+*.7z
+dados/**/*.gpkg
