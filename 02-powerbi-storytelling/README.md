@@ -12,6 +12,8 @@
 
 📚 **Onde estudar, certificado e projeto de portfólio desta fase:** ver o [Guia de estudo](../recursos/GUIA-DE-ESTUDO.md).
 
+🎓 **Certificado recomendado desta fase:** [passo a passo](../carreira/certificados/microsoft-pl-300.md).
+
 ## Módulos (estude nesta ordem)
 
 | # | Módulo | Em uma frase |

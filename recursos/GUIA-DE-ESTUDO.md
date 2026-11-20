@@ -59,7 +59,7 @@ Três coisas diferentes, com pesos diferentes na hora da contratação:
 | Livro | [OpenIntro Statistics](https://www.openintro.org/book/os/) | Sim |
 
 ### ⭐ Certificado da fase
-**Google Data Analytics Professional Certificate** (Coursera). Cobre SQL, planilhas, visualização e um estudo de caso. Muito conhecido por recrutadores, inclusive fora do Brasil. Coursera oferece **auxílio financeiro** (pedido no próprio curso).
+**Google Data Analytics Professional Certificate** (Coursera). Cobre SQL, planilhas, visualização e um estudo de caso. Muito conhecido por recrutadores, inclusive fora do Brasil. Coursera oferece **auxílio financeiro** (pedido no próprio curso). 👉 [Passo a passo completo](../carreira/certificados/google-data-analytics.md)
 
 ### 🎯 Projeto de portfólio da fase
 **"Emprego formal no Brasil: onde e em que setores cresce?"**
@@ -79,7 +79,7 @@ Três coisas diferentes, com pesos diferentes na hora da contratação:
 | Storytelling | Livro *Storytelling com Dados* (Cole Nussbaumer Knaflic) | Pago | — |
 
 ### ⭐ Certificado da fase
-**Microsoft PL-300: Power BI Data Analyst Associate.** É a certificação de BI mais pedida em vagas no Brasil. A prova é paga; a Microsoft às vezes distribui vouchers de desconto em eventos/desafios do Microsoft Learn.
+**Microsoft PL-300: Power BI Data Analyst Associate.** É a certificação de BI mais pedida em vagas no Brasil. A prova é paga; a Microsoft às vezes distribui vouchers de desconto em eventos/desafios do Microsoft Learn. 👉 [Passo a passo completo](../carreira/certificados/microsoft-pl-300.md)
 
 ### 🎯 Projeto de portfólio da fase
 **"Painel da inflação brasileira (IPCA)"**: por grupo de produtos, por região metropolitana, acumulado em 12 meses vs meta.
