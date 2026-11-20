@@ -8,4 +8,5 @@
 |---|---|
 | [`vagas-referencia.md`](vagas-referencia.md) | Vagas que você usaria como alvo, e o que elas pedem |
 | [`curriculo-e-linkedin.md`](curriculo-e-linkedin.md) | Checklist de currículo, LinkedIn e GitHub |
+| [`certificados/`](certificados/README.md) | PDFs dos certificados e tabela de controle |
 | [`ingles.md`](ingles.md) | Plano de inglês para vagas no exterior |

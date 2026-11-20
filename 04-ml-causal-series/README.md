@@ -10,6 +10,8 @@
 | **Entrega final** | Dois projetos: (1) um modelo preditivo com validação correta; (2) uma avaliação de impacto (ex.: diferenças em diferenças) com dados reais. |
 | **Com o que se conecta** | Usa Python e econometria (Fase 3). Os modelos viram apps na Fase 5. |
 
+📚 **Onde estudar, certificado e projeto de portfólio desta fase:** ver o [Guia de estudo](../recursos/GUIA-DE-ESTUDO.md).
+
 ## Módulos (estude nesta ordem)
 
 | # | Módulo | Em uma frase |

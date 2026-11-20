@@ -10,6 +10,8 @@
 | **Entrega final** | Um notebook reprodutível: dados públicos (IBGE, BCB, IPEA) → limpeza com pandas → regressão com statsmodels → conclusão para não-técnicos. |
 | **Com o que se conecta** | Lê dados via SQL (Fase 1), aplica a estatística (Fase 1) e prepara o terreno para ML (Fase 4). |
 
+📚 **Onde estudar, certificado e projeto de portfólio desta fase:** ver o [Guia de estudo](../recursos/GUIA-DE-ESTUDO.md).
+
 ## Módulos (estude nesta ordem)
 
 | # | Módulo | Em uma frase |

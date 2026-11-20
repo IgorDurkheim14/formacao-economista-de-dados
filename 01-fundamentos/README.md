@@ -10,6 +10,8 @@
 | **Entrega final** | Um mini-projeto: perguntas de negócio respondidas com SQL sobre uma base pública, resumo em Excel e uma interpretação estatística em texto. |
 | **Com o que se conecta** | O SQL vira a fonte de dados do Power BI (Fase 2) e do pandas (Fase 3). A estatística é a base da econometria e do ML (Fases 3 e 4). |
 
+📚 **Onde estudar, certificado e projeto de portfólio desta fase:** ver o [Guia de estudo](../recursos/GUIA-DE-ESTUDO.md).
+
 ## Módulos (estude nesta ordem)
 
 | # | Módulo | Em uma frase |

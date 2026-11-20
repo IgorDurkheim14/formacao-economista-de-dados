@@ -10,6 +10,8 @@
 | **Entrega final** | Um painel publicado (Power BI) com modelo de dados em estrela, medidas DAX e uma página de "conclusões". |
 | **Com o que se conecta** | Usa o SQL e o Excel/Power Query da Fase 1. Os painéis viram peças do portfólio. |
 
+📚 **Onde estudar, certificado e projeto de portfólio desta fase:** ver o [Guia de estudo](../recursos/GUIA-DE-ESTUDO.md).
+
 ## Módulos (estude nesta ordem)
 
 | # | Módulo | Em uma frase |

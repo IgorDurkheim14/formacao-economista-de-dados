@@ -60,8 +60,8 @@ formacao-economista-de-dados/
 │
 ├── progresso/             ← diário de bordo: o "histórico escolar"
 ├── portfolio/             ← os melhores projetos, prontos para mostrar
-├── carreira/              ← vagas, currículo, LinkedIn, inglês
-├── recursos/              ← cursos, livros e bases de dados de referência
+├── carreira/              ← vagas, currículo, LinkedIn, certificados, inglês
+├── recursos/              ← GUIA-DE-ESTUDO.md: onde estudar, praticar e certificar
 ├── dados/                 ← onde ficam os arquivos de dados (ver regras dentro)
 └── templates/             ← modelos prontos para novo módulo, projeto e sessão
 ```
@@ -76,8 +76,9 @@ formacao-economista-de-dados/
 
 ## 🚀 Começo rápido
 1. Leia [`COMO-USAR.md`](COMO-USAR.md) (10 minutos).
-2. Comece pela [Fase 0](00-orientacao/README.md).
-3. Ao fim de cada sessão de estudo, registre em [`progresso/`](progresso/README.md).
+2. Veja [onde estudar, praticar e certificar cada fase](recursos/GUIA-DE-ESTUDO.md).
+3. Comece pela [Fase 0](00-orientacao/README.md).
+4. Ao fim de cada sessão de estudo, registre em [`progresso/`](progresso/README.md).
 
 ## 🔗 Projetos relacionados (já existentes)
 - [dissertacao-pib-ntl-amazonia](https://github.com/IgorDurkheim14/dissertacao-pib-ntl-amazonia)

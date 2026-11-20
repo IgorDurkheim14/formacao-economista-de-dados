@@ -10,6 +10,8 @@
 | **Entrega final** | Um app em Streamlit publicado na internet, com o código no GitHub. |
 | **Com o que se conecta** | Publica os resultados das Fases 3 e 4. O Git é usado desde o primeiro dia neste repositório. |
 
+📚 **Onde estudar, certificado e projeto de portfólio desta fase:** ver o [Guia de estudo](../recursos/GUIA-DE-ESTUDO.md).
+
 ## Módulos (estude nesta ordem)
 
 | # | Módulo | Em uma frase |

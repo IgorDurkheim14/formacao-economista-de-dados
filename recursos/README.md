@@ -5,6 +5,8 @@
 **Por que existe:** um só lugar para os materiais bons, para não ter que procurar de novo.
 Anote só o que você realmente usou e achou útil.
 
+👉 **Comece pelo [Guia de estudo](GUIA-DE-ESTUDO.md)**: onde aprender, praticar e certificar cada fase, e qual projeto de portfólio fazer.
+
 ## Bases de dados públicas (ótimas para projetos de economista)
 | Fonte | O que tem | Link |
 |---|---|---|
